@@ -10,3 +10,4 @@ Console.WriteLine("feature_1");
 Console.WriteLine("feature_1 after merge change again");
 Console.WriteLine("feature_1");
 Console.WriteLine("feature_1");
+Console.WriteLine("feature_1");
